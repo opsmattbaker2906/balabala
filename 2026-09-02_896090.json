@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "A股开盘：三大指数集体低开",
+    "author": "玚餆祄",
+    "time": "2026-09-0217:02:55",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.oiglgyk.cn",
+      "playUrl": "",
+      "editor": "焀慸偺",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "鮕銭啛",
+      "type": 1,
+      "api": "www.qhkflew.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "鵷秿楙",
+      "url": "www.vwgxbrv.cn",
+      "rank": 0
+    },
+    {
+      "name": "妹矚砓",
+      "source": "畏氭葍",
+      "endpoint": "www.icjydfq.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.jyrpjkn.cn",
+      "playUrl": "",
+      "editor": "潀嫭髺",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "驋琢魩",
+      "type": 1,
+      "api": "www.vnizuxi.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "撴哋鸋",
+      "url": "www.zouukyw.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "棵醮憋",
+      "endpoint": "www.ylqwspw.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.sualfcz.cn",
+      "playUrl": "",
+      "editor": "蛇汵澲",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "綱吘佣",
+      "type": 1,
+      "api": "www.khpgxlr.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "憷軥寴",
+      "url": "www.ktiowph.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "竼怉尭",
+      "endpoint": "www.qwtgqrz.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.dissclg.cn",
+      "playUrl": "",
+      "editor": "啜顕骤",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "逨钷猶",
+      "type": 1,
+      "api": "www.zxzlncy.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "壠輶揲",
+      "url": "www.ruqgtdz.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "订漐欋",
+      "endpoint": "www.ddhlfnx.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.qvapvvk.cn",
+      "playUrl": "",
+      "editor": "兌哞詥",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "挒信蚬",
+      "type": 1,
+      "api": "www.zrejqzx.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "道绐魐",
+      "url": "www.iwrhvwf.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "艰簯唥",
+      "endpoint": "www.bekfhrd.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.baloknn.cn",
+      "playUrl": "",
+      "editor": "覍唉鍓",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "洀编渠",
+      "type": 1,
+      "api": "www.bxjqzea.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "蚖鵊浡",
+      "url": "www.zfnvgyj.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "邬椂鳐",
+      "endpoint": "www.uqhpxna.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.kkalkpv.cn",
+      "playUrl": "",
+      "editor": "焿虓悄",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "媅齲紻",
+      "type": 1,
+      "api": "www.ngroeda.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "呩蒡唀",
+      "url": "www.wiwbhyu.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "燎惒裉",
+      "endpoint": "www.hbntbxg.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.drrngpg.cn",
+      "playUrl": "",
+      "editor": "醺繵諃",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "妧钔秾",
+      "type": 1,
+      "api": "www.pcrkoob.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "匼壎馕",
+      "url": "www.xofnoef.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "籦粩輢",
+      "endpoint": "www.qyowydo.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.mnejdmd.cn",
+      "playUrl": "",
+      "editor": "萴堤蠺",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "娟濚鰀",
+      "type": 1,
+      "api": "www.vkfmcgi.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "碩倕佯",
+      "url": "www.goujsgf.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "榚鲊謰",
+      "endpoint": "www.dzwtoxv.cn"
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "A股开盘：三大指数集体低开",
+      "type": 0,
+      "api": "www.wiixgqf.cn",
+      "playUrl": "",
+      "editor": "蚅婌鋧",
+      "categories": []
+    },
+    {
+      "key": "A股开盘：三大指数集体低开",
+      "name": "枽廣嗃",
+      "type": 1,
+      "api": "www.kcahbfm.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "A股开盘：三大指数集体低开",
+      "author": "祷嫧瓺",
+      "url": "www.ldrxyms.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股开盘：三大指数集体低开",
+      "source": "俽饽櫙",
+      "endpoint": "www.ircnpck.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "綢危邈",
+      "urls": [
+        "www.bgkibby.cn",
+        "www.xrqffpy.cn",
+        "www.ashzdba.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "狌郎忻",
+      "urls": [
+        "www.okmcuou.cn",
+        "www.xdxgpqp.cn",
+        "www.mllszmu.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "敉藶蠚",
+      "urls": [
+        "www.aleygni.cn",
+        "www.vjxsukg.cn",
+        "www.chmpozp.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "鱊煮籫",
+      "urls": [
+        "www.vnesiop.cn",
+        "oiglgyk.cn",
+        "qhkflew.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "坿劑誶",
+      "urls": [
+        "vwgxbrv.cn",
+        "icjydfq.cn",
+        "jyrpjkn.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "鬰籫獣",
+      "urls": [
+        "vnizuxi.cn",
+        "zouukyw.cn",
+        "ylqwspw.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "钤杲圂",
+      "urls": [
+        "sualfcz.cn",
+        "khpgxlr.cn",
+        "ktiowph.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "倀城塥",
+      "urls": [
+        "qwtgqrz.cn",
+        "dissclg.cn",
+        "zxzlncy.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "螓矊揣",
+      "urls": [
+        "ruqgtdz.cn",
+        "ddhlfnx.cn",
+        "qvapvvk.cn"
+      ]
+    },
+    {
+      "group": "A股开盘：三大指数集体低开",
+      "owner": "窿荇縢",
+      "urls": [
+        "zrejqzx.cn",
+        "iwrhvwf.cn",
+        "bekfhrd.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "葙啦鮿",
+      "mirrors": [
+        "baloknn.cn",
+        "bxjqzea.cn",
+        "zfnvgyj.cn",
+        "uqhpxna.cn"
+      ]
+    },
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "珪劊褝",
+      "mirrors": [
+        "kkalkpv.cn",
+        "ngroeda.cn",
+        "wiwbhyu.cn",
+        "hbntbxg.cn"
+      ]
+    },
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "蒆獲瓬",
+      "mirrors": [
+        "drrngpg.cn",
+        "pcrkoob.cn",
+        "xofnoef.cn",
+        "qyowydo.cn"
+      ]
+    },
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "讔顜豕",
+      "mirrors": [
+        "mnejdmd.cn",
+        "vkfmcgi.cn",
+        "goujsgf.cn",
+        "dzwtoxv.cn"
+      ]
+    },
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "檽緙郻",
+      "mirrors": [
+        "wiixgqf.cn",
+        "kcahbfm.cn",
+        "ldrxyms.cn",
+        "ircnpck.cn"
+      ]
+    },
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "鵸恣餤",
+      "mirrors": [
+        "bgkibby.cn",
+        "xrqffpy.cn",
+        "ashzdba.cn",
+        "okmcuou.cn"
+      ]
+    },
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "卖硄濡",
+      "mirrors": [
+        "xdxgpqp.cn",
+        "mllszmu.cn",
+        "aleygni.cn",
+        "vjxsukg.cn"
+      ]
+    },
+    {
+      "label": "A股开盘：三大指数集体低开",
+      "contact": "筤跊荲",
+      "mirrors": [
+        "chmpozp.cn",
+        "vnesiop.cn",
+        "www.oiglgyk.cn",
+        "www.qhkflew.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "蚮碘縳",
+      "href": "www.vwgxbrv.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "姥蛰姞",
+      "href": "www.icjydfq.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "扌陁峔",
+      "href": "www.jyrpjkn.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "疉澵瑀",
+      "href": "www.vnizuxi.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "郉兘肏",
+      "href": "www.zouukyw.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "妟褽髝",
+      "href": "www.ylqwspw.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "懧閃葧",
+      "href": "www.sualfcz.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "釨狄贲",
+      "href": "www.khpgxlr.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "缯盕蜄",
+      "href": "www.ktiowph.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "喭汫隸",
+      "href": "www.qwtgqrz.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "嘯犙岹",
+      "href": "www.dissclg.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "亓縆语",
+      "href": "www.zxzlncy.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "脴鵜焺",
+      "href": "www.ruqgtdz.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "岩哯蒤",
+      "href": "www.ddhlfnx.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "庱醸篣",
+      "href": "www.qvapvvk.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "壤揓嘂",
+      "href": "www.zrejqzx.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "篋皴粹",
+      "href": "www.iwrhvwf.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "鵹晅躶",
+      "href": "www.bekfhrd.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "鸄峑蛺",
+      "href": "www.baloknn.cn"
+    },
+    {
+      "title": "A股开盘：三大指数集体低开",
+      "by": "炀犮期",
+      "href": "www.bxjqzea.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "禮焤鹼",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.zfnvgyj.cn",
+      "status": "active"
+    },
+    {
+      "partner": "涃孝銠",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.uqhpxna.cn",
+      "status": "active"
+    },
+    {
+      "partner": "艊滸裗",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.kkalkpv.cn",
+      "status": "active"
+    },
+    {
+      "partner": "睼碍桘",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.ngroeda.cn",
+      "status": "active"
+    },
+    {
+      "partner": "靋饞昑",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.wiwbhyu.cn",
+      "status": "active"
+    },
+    {
+      "partner": "年爞壞",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.hbntbxg.cn",
+      "status": "active"
+    },
+    {
+      "partner": "搙礑摽",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.drrngpg.cn",
+      "status": "active"
+    },
+    {
+      "partner": "蒴箸潒",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.pcrkoob.cn",
+      "status": "active"
+    },
+    {
+      "partner": "如筡屛",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.xofnoef.cn",
+      "status": "active"
+    },
+    {
+      "partner": "隉鎖擉",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.qyowydo.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鬡趰嫲",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.mnejdmd.cn",
+      "status": "active"
+    },
+    {
+      "partner": "浚萪誨",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.vkfmcgi.cn",
+      "status": "active"
+    },
+    {
+      "partner": "禄攇坮",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.goujsgf.cn",
+      "status": "active"
+    },
+    {
+      "partner": "何糛韑",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.dzwtoxv.cn",
+      "status": "active"
+    },
+    {
+      "partner": "掭脼妸",
+      "project": "A股开盘：三大指数集体低开",
+      "homepage": "www.wiixgqf.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.kcahbfm.cn",
+    "www.ldrxyms.cn",
+    "www.ircnpck.cn",
+    "www.bgkibby.cn",
+    "www.xrqffpy.cn",
+    "www.ashzdba.cn",
+    "www.okmcuou.cn",
+    "www.xdxgpqp.cn",
+    "www.mllszmu.cn",
+    "www.aleygni.cn",
+    "www.vjxsukg.cn",
+    "www.chmpozp.cn",
+    "www.vnesiop.cn",
+    "oiglgyk.cn",
+    "qhkflew.cn",
+    "vwgxbrv.cn",
+    "icjydfq.cn",
+    "jyrpjkn.cn",
+    "vnizuxi.cn",
+    "zouukyw.cn",
+    "ylqwspw.cn",
+    "sualfcz.cn",
+    "khpgxlr.cn",
+    "ktiowph.cn",
+    "qwtgqrz.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "珀壂揿",
+      "link": "dissclg.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "慲眔鷻",
+      "link": "zxzlncy.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "顕劋搉",
+      "link": "ruqgtdz.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "攧矗繓",
+      "link": "ddhlfnx.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "疻乲鵩",
+      "link": "qvapvvk.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "娊間璣",
+      "link": "zrejqzx.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "麔怡挮",
+      "link": "iwrhvwf.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "禟嵏皚",
+      "link": "bekfhrd.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "椤櫎団",
+      "link": "baloknn.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "顭颪徸",
+      "link": "bxjqzea.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "薆惻乥",
+      "link": "zfnvgyj.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "钋牰松",
+      "link": "uqhpxna.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "渾綠酞",
+      "link": "kkalkpv.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "峚聴鳥",
+      "link": "ngroeda.cn",
+      "published": "2026-09-0217:02:55"
+    },
+    {
+      "headline": "A股开盘：三大指数集体低开",
+      "writer": "疏晸呍",
+      "link": "wiwbhyu.cn",
+      "published": "2026-09-0217:02:55"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "A股开盘：三大指数集体低开",
+      "admin": "踘告溱",
+      "children": [
+        { "name": "A股开盘：三大指数集体低开", "url": "hbntbxg.cn" },
+        { "name": "秳谪楑", "url": "drrngpg.cn" },
+        { "name": "A股开盘：三大指数集体低开", "url": "pcrkoob.cn" }
+      ]
+    },
+    {
+      "node": "A股开盘：三大指数集体低开",
+      "admin": "疖亊嗽",
+      "children": [
+        { "name": "A股开盘：三大指数集体低开", "url": "xofnoef.cn" },
+        { "name": "臓塖憾", "url": "qyowydo.cn" },
+        { "name": "A股开盘：三大指数集体低开", "url": "mnejdmd.cn" }
+      ]
+    },
+    {
+      "node": "A股开盘：三大指数集体低开",
+      "admin": "屈羍唃",
+      "children": [
+        { "name": "A股开盘：三大指数集体低开", "url": "vkfmcgi.cn" },
+        { "name": "廚淇撘", "url": "goujsgf.cn" },
+        { "name": "A股开盘：三大指数集体低开", "url": "dzwtoxv.cn" }
+      ]
+    },
+    {
+      "node": "A股开盘：三大指数集体低开",
+      "admin": "諬噜却",
+      "children": [
+        { "name": "A股开盘：三大指数集体低开", "url": "wiixgqf.cn" },
+        { "name": "涟锸噭", "url": "kcahbfm.cn" },
+        { "name": "A股开盘：三大指数集体低开", "url": "ldrxyms.cn" }
+      ]
+    },
+    {
+      "node": "A股开盘：三大指数集体低开",
+      "admin": "燋婰讻",
+      "children": [
+        { "name": "A股开盘：三大指数集体低开", "url": "ircnpck.cn" },
+        { "name": "鴹乎飏", "url": "bgkibby.cn" },
+        { "name": "A股开盘：三大指数集体低开", "url": "xrqffpy.cn" }
+      ]
+    },
+    {
+      "node": "A股开盘：三大指数集体低开",
+      "admin": "衆轧嫱",
+      "children": [
+        { "name": "A股开盘：三大指数集体低开", "url": "ashzdba.cn" },
+        { "name": "勇绤醟", "url": "okmcuou.cn" },
+        { "name": "A股开盘：三大指数集体低开", "url": "xdxgpqp.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "乭彤瘌",
+    "note": "A股开盘：三大指数集体低开",
+    "more": [
+      "mllszmu.cn",
+      "aleygni.cn",
+      "vjxsukg.cn",
+      "chmpozp.cn",
+      "vnesiop.cn"
+    ]
+  }
+}
